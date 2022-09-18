@@ -37,6 +37,7 @@ div {
   max-width: 540px;
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
+  background-color: #fff;
 }
 
 .search {
