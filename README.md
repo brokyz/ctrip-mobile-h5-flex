@@ -7,7 +7,7 @@
     携 程 网 h5 移 动 端 仿 写
   </p> 
   <p align="center">
-    <a style="text-decoration:none" href="https://brokyz.github.io/ctrip-moblie-h5-flex/" target="_blank">案例演示站点</a>
+    <a style="text-decoration:none" href="https://brokyz.github.io/ctrip-mobile-h5-flex/" target="_blank">案例演示站点</a>
    </p>
 </div>
 
